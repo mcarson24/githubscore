@@ -1,0 +1,3 @@
+Refactoring [this interview question](https://www.reddit.com/r/rails/comments/2qq1co/interview_question_need_to_make_it_more_rubyesque/) using collection pipelines from Adam Wathan.
+
+> I had an interview question where I was tasked to calculate the GitHub score of a random user. You are given a user, and using the JSON serialization of their account you determine their score from some arbitrary key they gave me (you can see it in the switch case I wrote.)
